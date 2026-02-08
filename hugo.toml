@@ -1,11 +1,7 @@
 baseURL = "/"
 defaultContentLanguage = "en"
 theme = "nomad-tech"
-[params]
-  description = "My portfolio website"
 
-  [params.css]
-    Sass = true
 
 [pagination]
   pagerSize = 6
