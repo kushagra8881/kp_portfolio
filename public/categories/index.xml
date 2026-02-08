@@ -7,19 +7,5 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Lifestyle</title>
-      <link>//localhost:1313/categories/lifestyle/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/lifestyle/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Nomad</title>
-      <link>//localhost:1313/categories/nomad/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/nomad/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
