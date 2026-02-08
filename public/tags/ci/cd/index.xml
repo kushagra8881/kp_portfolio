@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CI/CD on Kushagra Parashar | ML Engineer</title>
+    <link>//localhost:1313/tags/ci/cd/</link>
+    <description>Recent content in CI/CD on Kushagra Parashar | ML Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/ci/cd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Loan Prediction MLOps Pipeline</title>
+      <link>//localhost:1313/portfolio/loan-prediction-mlops/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/portfolio/loan-prediction-mlops/</guid>
+      <description>Overview A production-grade MLOps pipeline that automates the entire machine learning lifecycle - from model training to deployment. Built with industry best practices for reliability, reproducibility, and scalability.&#xA;🔧 Tech Stack FastAPI - High-performance API framework Docker - Containerization AWS EC2 - Cloud deployment Jenkins - CI/CD automation DVC - Data version control ✨ Key Features Automated Pipeline Automated model retraining triggered by data drift or schedule Validation gates ensuring model quality before deployment Jenkins-based CI/CD for seamless integration Production Deployment Containerized microservice using Docker AWS EC2 orchestration for scalable deployment 99.</description>
+    </item>
+  </channel>
+</rss>

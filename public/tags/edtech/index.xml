@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EdTech on Kushagra Parashar | ML Engineer</title>
+    <link>//localhost:1313/tags/edtech/</link>
+    <description>Recent content in EdTech on Kushagra Parashar | ML Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/edtech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ML Engineer &amp; Founding Team Member @ Firstbench</title>
+      <link>//localhost:1313/experience/firstbench/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/experience/firstbench/</guid>
+      <description>Role Overview As a Machine Learning Engineer &amp;amp; Founding Team Member at Firstbench, I played a pivotal role in building an AI-powered educational platform from the ground up.&#xA;📅 Duration October 2024 – February 2025 | Remote&#xA;🎯 Key Responsibilities AI-Driven Learning Platform Led the design and deployment of a personalized learning platform Served 10,000+ UPSC aspirants with customized content Improved content recommendation accuracy by 80% Technical Implementation Built transformer-based NLP models for content understanding Implemented collaborative filtering for personalized recommendations Designed semantic tagging systems for content organization MLOps Excellence Engineered scalable end-to-end MLOps pipelines Automated question generation using AI Optimized inference latency for production readiness Implemented adaptive learning algorithms 🔧 Tech Stack NLP: Transformers, HuggingFace, BERT ML: PyTorch, TensorFlow, Scikit-learn MLOps: Docker, AWS, FastAPI Databases: PostgreSQL, Redis 📊 Impact Metric Result Users Served 10,000+ Recommendation Accuracy +80% Platform Availability 99.</description>
+    </item>
+  </channel>
+</rss>

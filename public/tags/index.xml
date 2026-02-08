@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Kushagra Parashar | ML Engineer</title>
+    <link>//localhost:1313/tags/</link>
+    <description>Recent content in Tags on Kushagra Parashar | ML Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 08 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Augmentation</title>
+      <link>//localhost:1313/tags/data-augmentation/</link>
+      <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/data-augmentation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GANs</title>
+      <link>//localhost:1313/tags/gans/</link>
+      <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/gans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Medical AI</title>
+      <link>//localhost:1313/tags/medical-ai/</link>
+      <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/medical-ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ongoing</title>
+      <link>//localhost:1313/tags/ongoing/</link>
+      <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/ongoing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>//localhost:1313/tags/research/</link>
+      <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/research/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deep Learning</title>
+      <link>//localhost:1313/tags/deep-learning/</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interpretability</title>
+      <link>//localhost:1313/tags/interpretability/</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/interpretability/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>EdTech</title>
+      <link>//localhost:1313/tags/edtech/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/edtech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machine Learning</title>
+      <link>//localhost:1313/tags/machine-learning/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MLOps</title>
+      <link>//localhost:1313/tags/mlops/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/mlops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NLP</title>
+      <link>//localhost:1313/tags/nlp/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/nlp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ASR</title>
+      <link>//localhost:1313/tags/asr/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/asr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Computer Vision</title>
+      <link>//localhost:1313/tags/computer-vision/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HuggingFace</title>
+      <link>//localhost:1313/tags/huggingface/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/huggingface/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PyTorch</title>
+      <link>//localhost:1313/tags/pytorch/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/pytorch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AWS</title>
+      <link>//localhost:1313/tags/aws/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/aws/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CI/CD</title>
+      <link>//localhost:1313/tags/ci/cd/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/ci/cd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker</title>
+      <link>//localhost:1313/tags/docker/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FastAPI</title>
+      <link>//localhost:1313/tags/fastapi/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/fastapi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CLI</title>
+      <link>//localhost:1313/tags/cli/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/cli/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>//localhost:1313/tags/python/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Systems Programming</title>
+      <link>//localhost:1313/tags/systems-programming/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/systems-programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hackathon Winner</title>
+      <link>//localhost:1313/tags/hackathon-winner/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/hackathon-winner/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Healthcare AI</title>
+      <link>//localhost:1313/tags/healthcare-ai/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/healthcare-ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Published</title>
+      <link>//localhost:1313/tags/published/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/published/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FinTech</title>
+      <link>//localhost:1313/tags/fintech/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/fintech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quantitative Trading</title>
+      <link>//localhost:1313/tags/quantitative-trading/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/quantitative-trading/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Time-Series</title>
+      <link>//localhost:1313/tags/time-series/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/time-series/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Remote-Work</title>
+      <link>//localhost:1313/tags/remote-work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/remote-work/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Travel</title>
+      <link>//localhost:1313/tags/travel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/travel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Visa</title>
+      <link>//localhost:1313/tags/visa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/visa/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

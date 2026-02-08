@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interpretability on Kushagra Parashar | ML Engineer</title>
+    <link>//localhost:1313/tags/interpretability/</link>
+    <description>Recent content in Interpretability on Kushagra Parashar | ML Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 13 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/interpretability/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interpretable Deep Learning for GI Endoscopic Images</title>
+      <link>//localhost:1313/posts/gi-endoscopy/</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/gi-endoscopy/</guid>
+      <description>📄 Abstract Gastrointestinal (GI) endoscopy serves as a vital tool for assessing the GI tract and diagnosing related disorders. Recent progress in deep learning has shown significant improvements in identifying anomalies using sophisticated models and data augmentation strategies.&#xA;This study introduces an enhanced approach to improve classification accuracy using 8,000 labeled endoscopic images from the Kvasir dataset, categorized into eight distinct classes. Leveraging EfficientNetB3 as the backbone, our proposed architecture eliminates the reliance on data augmentation while maintaining moderate model complexity.</description>
+    </item>
+  </channel>
+</rss>

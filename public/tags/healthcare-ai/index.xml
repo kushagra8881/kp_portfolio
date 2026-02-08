@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Healthcare AI on Kushagra Parashar | ML Engineer</title>
+    <link>//localhost:1313/tags/healthcare-ai/</link>
+    <description>Recent content in Healthcare AI on Kushagra Parashar | ML Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/healthcare-ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Skin Sprite — AI Dermatology Analysis</title>
+      <link>//localhost:1313/portfolio/skin-sprite/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/portfolio/skin-sprite/</guid>
+      <description>🏆 Award-Winning Project Winner at HackBytes 2.0, IIIT Jabalpur - An AI-powered dermatology analysis system that surpassed existing solutions in diagnostic efficiency.&#xA;Overview Skin Sprite is an intelligent dermatology assistant that uses computer vision and deep learning to analyze skin conditions. Built during a 24-hour hackathon, it demonstrates the power of AI in healthcare diagnostics.&#xA;🔧 Tech Stack Deep Learning - CNN-based image classification Computer Vision - Image preprocessing and augmentation Python - Backend development Streamlit/FastAPI - Web interface ✨ Key Features Accurate Diagnosis Multi-class skin lesion classification High diagnostic accuracy rivaling existing solutions Confidence scoring for predictions User-Friendly Interface Easy image upload for analysis Instant results with detailed explanations Medical disclaimer and guidance Production Ready Optimized inference for real-time analysis Scalable architecture for deployment Privacy-focused - no data retention 🔗 Links Devfolio Project GitHub Repository </description>
+    </item>
+    <item>
+      <title>DermaPixie — Skin Lesion Classifier</title>
+      <link>//localhost:1313/portfolio/dermapixie/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/portfolio/dermapixie/</guid>
+      <description>🏆 Award-Winning Project Winner at TechMinds Hackathon, IIT Janakpuri - A computer vision model achieving 98.5% diagnostic accuracy in skin lesion classification.&#xA;Overview DermaPixie is a state-of-the-art skin lesion classification system that leverages advanced computer vision techniques to achieve near-expert level diagnostic accuracy.&#xA;🔧 Tech Stack PyTorch/TensorFlow - Deep learning framework EfficientNet - Backbone architecture OpenCV - Image processing Grad-CAM - Model interpretability ✨ Key Features State-of-the-Art Accuracy 98.5% diagnostic accuracy on test dataset Multi-class classification covering various skin conditions Robust to image quality variations Interpretable AI Grad-CAM visualizations showing model attention Confidence scores for each prediction Explainable results for medical professionals Technical Excellence Transfer learning from ImageNet pretrained models Data augmentation for improved generalization Optimized for mobile deployment 📊 Results Metric Performance Accuracy 98.</description>
+    </item>
+  </channel>
+</rss>

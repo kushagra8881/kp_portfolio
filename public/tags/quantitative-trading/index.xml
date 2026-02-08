@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quantitative Trading on Kushagra Parashar | ML Engineer</title>
+    <link>//localhost:1313/tags/quantitative-trading/</link>
+    <description>Recent content in Quantitative Trading on Kushagra Parashar | ML Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/quantitative-trading/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine Learning Intern @ Fox Trading</title>
+      <link>//localhost:1313/experience/fox-trading/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/experience/fox-trading/</guid>
+      <description>Role Overview As a Machine Learning Intern at Fox Trading, I worked on developing AI-powered trading strategies using advanced statistical methods.&#xA;📅 Duration October 2023 – November 2023 | Remote&#xA;🎯 Key Responsibilities Quantitative Trading Algorithms Developed and backtested trading algorithms Implemented ensemble learning techniques Applied statistical arbitrage strategies Achieved 40% improvement in predictive performance Data Science Performed time-series forecasting on financial data Conducted extensive feature engineering Implemented anomaly detection systems Worked with large-scale financial datasets Model Optimization Enhanced model interpretability for trading decisions Improved execution efficiency of trading signals Built robust backtesting frameworks 🔧 Tech Stack ML: Scikit-learn, XGBoost, LightGBM Time-Series: Prophet, ARIMA, LSTM Data: Pandas, NumPy, SQL Visualization: Matplotlib, Plotly 📊 Impact Metric Result Predictive Performance +40% Backtesting Coverage 5+ years Models Developed 10+ </description>
+    </item>
+  </channel>
+</rss>

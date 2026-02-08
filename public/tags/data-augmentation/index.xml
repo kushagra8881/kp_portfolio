@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Augmentation on Kushagra Parashar | ML Engineer</title>
+    <link>//localhost:1313/tags/data-augmentation/</link>
+    <description>Recent content in Data Augmentation on Kushagra Parashar | ML Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 08 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/data-augmentation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Augmentation for Breast Cancer Imaging using GANs</title>
+      <link>//localhost:1313/posts/breast-cancer-gan/</link>
+      <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/breast-cancer-gan/</guid>
+      <description>Status: Ongoing Research&#xA;📄 Abstract The limited availability of annotated medical imaging data remains a critical barrier in developing robust deep learning models, particularly in breast Ultrasound (US). This study presents a novel conditional Generative Adversarial Network (GAN) framework tailored for synthesizing high-quality breast US images in data-constrained environments.&#xA;🔬 Methodology Our method is evaluated on 100 US images (one of the smallest publicly available breast US datasets) from the Open Access Series of Breast US Dataset (OASBUD), simulating real-world clinical scarcity.</description>
+    </item>
+  </channel>
+</rss>

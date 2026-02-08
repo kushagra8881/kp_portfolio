@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kushagra Parashar | ML Engineer</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Kushagra Parashar | ML Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 08 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ML Engineer &amp; Founding Team Member @ Firstbench</title>
+      <link>//localhost:1313/experience/firstbench/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/experience/firstbench/</guid>
+      <description>Role Overview As a Machine Learning Engineer &amp;amp; Founding Team Member at Firstbench, I played a pivotal role in building an AI-powered educational platform from the ground up.
+📅 Duration October 2024 – February 2025 | Remote
+🎯 Key Responsibilities AI-Driven Learning Platform Led the design and deployment of a personalized learning platform Served 10,000+ UPSC aspirants with customized content Improved content recommendation accuracy by 80% Technical Implementation Built transformer-based NLP models for content understanding Implemented collaborative filtering for personalized recommendations Designed semantic tagging systems for content organization MLOps Excellence Engineered scalable end-to-end MLOps pipelines Automated question generation using AI Optimized inference latency for production readiness Implemented adaptive learning algorithms 🔧 Tech Stack NLP: Transformers, HuggingFace, BERT ML: PyTorch, TensorFlow, Scikit-learn MLOps: Docker, AWS, FastAPI Databases: PostgreSQL, Redis 📊 Impact Metric Result Users Served 10,000+ Recommendation Accuracy +80% Platform Availability 99.</description>
+    </item>
+    
+    <item>
+      <title>SmolWhisper — Lightweight Multilingual ASR</title>
+      <link>//localhost:1313/portfolio/smolwhisper/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/portfolio/smolwhisper/</guid>
+      <description>Overview SmolWhisper is a lightweight yet powerful Automatic Speech Recognition (ASR) model built on top of the Whisper architecture. Designed for efficiency without sacrificing accuracy, it&amp;rsquo;s perfect for resource-constrained environments.
+🔧 Tech Stack PyTorch - Deep learning framework HuggingFace Transformers - Model architecture and tokenization FlashAttention - Optimized attention mechanism DDP (Distributed Data Parallel) - Multi-GPU training WGAN - Data augmentation ✨ Key Features High-Efficiency Training Trained on 250+ hours of GigaSpeech dataset Multi-GPU Distributed Data Parallel (DDP) for scalable training 35% faster convergence compared to baseline Advanced Optimization FlashAttention integration for memory-efficient attention bfloat16 precision training for reduced compute overhead WGAN-based data augmentation for enhanced training stability Production Ready Scalable pipelines for multilingual speech recognition Noise-robust transcription capabilities Lightweight model size (30M parameters) suitable for edge deployment 📊 Results Metric Performance Model Size 30M parameters Training Data 250+ hrs GigaSpeech Convergence Speed 35% faster Precision bfloat16 🔗 Links GitHub Repository </description>
+    </item>
+    
+    <item>
+      <title>Interpretable Deep Learning for GI Endoscopic Image Classification</title>
+      <link>//localhost:1313/research/gi-endoscopic-classification/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/research/gi-endoscopic-classification/</guid>
+      <description>📚 Publication Biomedical Physics &amp;amp; Engineering Express (IOP Publishing)
+Overview This research focuses on making deep learning models interpretable for medical diagnosis, specifically for gastrointestinal (GI) endoscopic image classification.
+🔬 Research Contributions Interpretable AI for Healthcare Applied EfficientNet architecture for multi-class GI diagnosis Integrated Grad-CAM for visual explanations of model decisions Implemented LIME (Local Interpretable Model-agnostic Explanations) Achieved transparent multi-class diagnosis Key Innovations Combined state-of-the-art accuracy with interpretability Enabled clinicians to understand model reasoning Validated on real-world endoscopic image datasets 🎯 Impact This work bridges the gap between high-performing deep learning models and clinical adoption by providing transparent, interpretable diagnoses that healthcare professionals can trust and verify.</description>
+    </item>
+    
+    <item>
+      <title>Data Augmentation for Breast Cancer Imaging using WGANs</title>
+      <link>//localhost:1313/research/wgan-breast-cancer/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/research/wgan-breast-cancer/</guid>
+      <description>🔬 Ongoing Research Overview This research explores the use of Wasserstein GANs (WGANs) to generate synthetic medical images for breast cancer detection, addressing the critical challenge of limited medical imaging datasets.
+🎯 Research Goals Data Augmentation Apply Wasserstein GANs with label smoothing Generate high-quality synthetic medical images Triple limited datasets for improved model training Improved Detection Enhance robustness of cancer detection models Address class imbalance in medical datasets Improve generalization across diverse patient populations 🔧 Methodology WGAN Architecture Generator network for realistic image synthesis Critic network for quality assessment Wasserstein distance for stable training Label Smoothing Regularization technique for improved generation Better gradient flow during training More realistic synthetic samples 📊 Expected Outcomes Metric Target Dataset Size 3x increase Model Robustness Significant improvement Generalization Improved cross-domain performance Status 🔄 Ongoing Research</description>
+    </item>
+    
+    <item>
+      <title>Loan Prediction MLOps Pipeline</title>
+      <link>//localhost:1313/portfolio/loan-prediction-mlops/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/portfolio/loan-prediction-mlops/</guid>
+      <description>Overview A production-grade MLOps pipeline that automates the entire machine learning lifecycle - from model training to deployment. Built with industry best practices for reliability, reproducibility, and scalability.
+🔧 Tech Stack FastAPI - High-performance API framework Docker - Containerization AWS EC2 - Cloud deployment Jenkins - CI/CD automation DVC - Data version control ✨ Key Features Automated Pipeline Automated model retraining triggered by data drift or schedule Validation gates ensuring model quality before deployment Jenkins-based CI/CD for seamless integration Production Deployment Containerized microservice using Docker AWS EC2 orchestration for scalable deployment 99.</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Intern @ Fox Trading</title>
+      <link>//localhost:1313/experience/fox-trading/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/experience/fox-trading/</guid>
+      <description>Role Overview As a Machine Learning Intern at Fox Trading, I worked on developing AI-powered trading strategies using advanced statistical methods.
+📅 Duration October 2023 – November 2023 | Remote
+🎯 Key Responsibilities Quantitative Trading Algorithms Developed and backtested trading algorithms Implemented ensemble learning techniques Applied statistical arbitrage strategies Achieved 40% improvement in predictive performance Data Science Performed time-series forecasting on financial data Conducted extensive feature engineering Implemented anomaly detection systems Worked with large-scale financial datasets Model Optimization Enhanced model interpretability for trading decisions Improved execution efficiency of trading signals Built robust backtesting frameworks 🔧 Tech Stack ML: Scikit-learn, XGBoost, LightGBM Time-Series: Prophet, ARIMA, LSTM Data: Pandas, NumPy, SQL Visualization: Matplotlib, Plotly 📊 Impact Metric Result Predictive Performance +40% Backtesting Coverage 5+ years Models Developed 10+ </description>
+    </item>
+    
+    <item>
+      <title>PyOS — Command-Line Operating System</title>
+      <link>//localhost:1313/portfolio/pyos/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/portfolio/pyos/</guid>
+      <description>Overview PyOS is a fully-featured command-line operating system simulator built in Python. It provides a realistic shell experience with user authentication, colorful interface, and an extensible command system.
+🔧 Tech Stack Python - Core language Argparse - Argument parsing Custom Authentication - Secure user management ✨ Key Features Secure Authentication User registration and login system Password hashing for security Session management Rich Shell Experience Color-coded interface for better readability Command history and navigation Tab completion support Extensible Architecture Modular command system - easily add new commands Plugin architecture for extensions Minimal dependencies for portability 🖥️ Available Commands $ help # Show available commands $ ls # List directory contents $ cd # Change directory $ cat # Display file contents $ mkdir # Create directory $ touch # Create file $ rm # Remove file/directory $ clear # Clear screen $ exit # Exit PyOS 🎨 Features Demo ╔══════════════════════════════════════╗ ║ Welcome to PyOS ║ ║ A Python-based CLI OS ║ ╚══════════════════════════════════════╝ [kushagra@pyos ~]$ ls Documents/ Downloads/ Projects/ [kushagra@pyos ~]$ cd Projects [kushagra@pyos ~/Projects]$ _ 🔗 Links GitHub Repository </description>
+    </item>
+    
+    <item>
+      <title>Skin Sprite — AI Dermatology Analysis</title>
+      <link>//localhost:1313/portfolio/skin-sprite/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/portfolio/skin-sprite/</guid>
+      <description>🏆 Award-Winning Project Winner at HackBytes 2.0, IIIT Jabalpur - An AI-powered dermatology analysis system that surpassed existing solutions in diagnostic efficiency.
+Overview Skin Sprite is an intelligent dermatology assistant that uses computer vision and deep learning to analyze skin conditions. Built during a 24-hour hackathon, it demonstrates the power of AI in healthcare diagnostics.
+🔧 Tech Stack Deep Learning - CNN-based image classification Computer Vision - Image preprocessing and augmentation Python - Backend development Streamlit/FastAPI - Web interface ✨ Key Features Accurate Diagnosis Multi-class skin lesion classification High diagnostic accuracy rivaling existing solutions Confidence scoring for predictions User-Friendly Interface Easy image upload for analysis Instant results with detailed explanations Medical disclaimer and guidance Production Ready Optimized inference for real-time analysis Scalable architecture for deployment Privacy-focused - no data retention 🔗 Links Devfolio Project GitHub Repository </description>
+    </item>
+    
+    <item>
+      <title>DermaPixie — Skin Lesion Classifier</title>
+      <link>//localhost:1313/portfolio/dermapixie/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/portfolio/dermapixie/</guid>
+      <description>🏆 Award-Winning Project Winner at TechMinds Hackathon, IIT Janakpuri - A computer vision model achieving 98.5% diagnostic accuracy in skin lesion classification.
+Overview DermaPixie is a state-of-the-art skin lesion classification system that leverages advanced computer vision techniques to achieve near-expert level diagnostic accuracy.
+🔧 Tech Stack PyTorch/TensorFlow - Deep learning framework EfficientNet - Backbone architecture OpenCV - Image processing Grad-CAM - Model interpretability ✨ Key Features State-of-the-Art Accuracy 98.5% diagnostic accuracy on test dataset Multi-class classification covering various skin conditions Robust to image quality variations Interpretable AI Grad-CAM visualizations showing model attention Confidence scores for each prediction Explainable results for medical professionals Technical Excellence Transfer learning from ImageNet pretrained models Data augmentation for improved generalization Optimized for mobile deployment 📊 Results Metric Performance Accuracy 98.</description>
+    </item>
+    
+    <item>
+      <title>Data Augmentation for Breast Cancer Imaging using GANs</title>
+      <link>//localhost:1313/posts/breast-cancer-gan/</link>
+      <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/breast-cancer-gan/</guid>
+      <description>Status: Ongoing Research
+📄 Abstract The limited availability of annotated medical imaging data remains a critical barrier in developing robust deep learning models, particularly in breast Ultrasound (US). This study presents a novel conditional Generative Adversarial Network (GAN) framework tailored for synthesizing high-quality breast US images in data-constrained environments.
+🔬 Methodology Our method is evaluated on 100 US images (one of the smallest publicly available breast US datasets) from the Open Access Series of Breast US Dataset (OASBUD), simulating real-world clinical scarcity.</description>
+    </item>
+    
+    <item>
+      <title>Interpretable Deep Learning for GI Endoscopic Images</title>
+      <link>//localhost:1313/posts/gi-endoscopy/</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/gi-endoscopy/</guid>
+      <description>📄 Abstract Gastrointestinal (GI) endoscopy serves as a vital tool for assessing the GI tract and diagnosing related disorders. Recent progress in deep learning has shown significant improvements in identifying anomalies using sophisticated models and data augmentation strategies.
+This study introduces an enhanced approach to improve classification accuracy using 8,000 labeled endoscopic images from the Kvasir dataset, categorized into eight distinct classes. Leveraging EfficientNetB3 as the backbone, our proposed architecture eliminates the reliance on data augmentation while maintaining moderate model complexity.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/about/</guid>
+      <description>Hey there! 👋 I&amp;rsquo;m Kushagra Parashar, a passionate Machine Learning Engineer currently pursuing an Integrated B.Tech (IT) + MBA at ABV-Indian Institute of Information Technology &amp;amp; Management, Gwalior.
+What I Do 🚀 I specialize in building intelligent systems that solve real-world problems. My expertise spans across:
+Deep Learning - Neural networks, transformers, and model optimization Natural Language Processing - Text understanding, generation, and semantic analysis Computer Vision - Image classification, object detection, and medical imaging MLOps - End-to-end ML pipelines, deployment, and monitoring Experience 💼 I&amp;rsquo;ve had the privilege of working with amazing teams:</description>
+    </item>
+    
+    <item>
+      <title>Social Media</title>
+      <link>//localhost:1313/social/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/social/</guid>
+      <description>Connect with Me Feel free to reach out for collaborations, opportunities, or just to say hi!
+Phone: +91 9812019300 Email: kushagraparashar900@gmail.com LinkedIn: kushagra-parashar GitHub: kushagra8881 Devfolio: kushagra0001 Profiles </description>
+    </item>
+    
+  </channel>
+</rss>

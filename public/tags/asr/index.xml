@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ASR on Kushagra Parashar | ML Engineer</title>
+    <link>//localhost:1313/tags/asr/</link>
+    <description>Recent content in ASR on Kushagra Parashar | ML Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/asr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SmolWhisper — Lightweight Multilingual ASR</title>
+      <link>//localhost:1313/portfolio/smolwhisper/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/portfolio/smolwhisper/</guid>
+      <description>Overview SmolWhisper is a lightweight yet powerful Automatic Speech Recognition (ASR) model built on top of the Whisper architecture. Designed for efficiency without sacrificing accuracy, it&amp;rsquo;s perfect for resource-constrained environments.&#xA;🔧 Tech Stack PyTorch - Deep learning framework HuggingFace Transformers - Model architecture and tokenization FlashAttention - Optimized attention mechanism DDP (Distributed Data Parallel) - Multi-GPU training WGAN - Data augmentation ✨ Key Features High-Efficiency Training Trained on 250+ hours of GigaSpeech dataset Multi-GPU Distributed Data Parallel (DDP) for scalable training 35% faster convergence compared to baseline Advanced Optimization FlashAttention integration for memory-efficient attention bfloat16 precision training for reduced compute overhead WGAN-based data augmentation for enhanced training stability Production Ready Scalable pipelines for multilingual speech recognition Noise-robust transcription capabilities Lightweight model size (30M parameters) suitable for edge deployment 📊 Results Metric Performance Model Size 30M parameters Training Data 250+ hrs GigaSpeech Convergence Speed 35% faster Precision bfloat16 🔗 Links GitHub Repository </description>
+    </item>
+  </channel>
+</rss>

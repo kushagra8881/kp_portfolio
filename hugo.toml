@@ -1,0 +1,163 @@
+baseURL = "/"
+defaultContentLanguage = "en"
+theme = "nomad-tech"
+
+[pagination]
+  pagerSize = 6
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[languages]
+  [languages.en]
+    languageCode = "en-US"
+    title = "Kushagra Parashar | ML Engineer"
+    weight = 1
+
+[menu]
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/portfolio/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "experience"
+    name = "Experience"
+    url = "/experience/"
+    weight = 2
+
+[params]
+  author = "Kushagra Parashar"
+  logo = "KP"
+  subtitle = "ML Engineer • AI Researcher"
+  description = "Building intelligent systems that solve real-world problems. Specializing in Deep Learning, NLP, Computer Vision, and MLOps."
+
+  # Social Media Links
+  [[params.social]]
+    name = "GitHub"
+    class = "github"
+    icon = "🐙"
+    description = "Open Source & Projects"
+    url = "https://github.com/kushagra8881"
+    button_text = "See Code"
+
+  [[params.social]]
+    name = "LinkedIn"
+    class = "linkedin"
+    icon = "💼"
+    description = "Professional Network"
+    url = "https://www.linkedin.com/in/kushagra-parashar-8b6593255"
+    button_text = "Connect"
+
+  [[params.social]]
+    name = "Email"
+    class = "email"
+    icon = "📧"
+    description = "Contact Me"
+    url = "mailto:kushagraparashar900@gmail.com"
+    button_text = "Send Email"
+
+  [[params.social]]
+    name = "Devfolio"
+    class = "devfolio"
+    icon = "🚀"
+    description = "Hackathon Portfolio"
+    url = "https://devfolio.co/@kushagra0001"
+    button_text = "View Profile"
+
+  [[params.social]]
+    name = "Phone"
+    class = "phone"
+    icon = "📞"
+    description = "Call Me"
+    url = "tel:9812019300"
+    button_text = "9812019300"
+
+  # Portfolio Items
+  [[params.portfolio]]
+    title = "DermaPixie"
+    type = "Computer Vision"
+    icon = "👁️"
+    description = "Skin lesion classifier with 98.5% accuracy. Winner at TechMinds Hackathon."
+    tags = ["PyTorch", "Healthcare", "CV"]
+    project_url = "https://devfolio.co/projects/dermapixie-14e3"
+
+  [[params.portfolio]]
+    title = "SmolWhisper"
+    type = "ASR Model"
+    icon = "🎙️"
+    description = "Lightweight multilingual ASR model (30M params) trained on 250+ hours of speech."
+    tags = ["NLP", "Transformers", "Optimized"]
+    project_url = "https://github.com/kushagra8881/SmolWhisper"
+
+  [[params.portfolio]]
+    title = "Loan Prediction MLOps"
+    type = "MLOps Pipeline"
+    icon = "⚙️"
+    description = "End-to-end MLOps pipeline with automated retraining, validation, and Docker deployment."
+    tags = ["MLOps", "Docker", "AWS"]
+    project_url = "https://github.com/kushagra8881/cicd_test_jenkin"
+
+  [[params.portfolio]]
+    title = "PyOS"
+    type = "CLI Application"
+    icon = "💻"
+    description = "A modular command-line operating system simulator with secure authentication."
+    tags = ["Python", "Systems", "CLI"]
+    project_url = "https://github.com/kushagra8881/pyos"
+
+  # Experience Timeline
+  [[params.experience]]
+    city = "Remote"
+    country = "WorldQuant"
+    flag = "📊"
+    period = "Sep 2025 - Present"
+    description = "Quantitative Research Consultant Expert (Part-time). Specialized in Gen AI, Data Intelligence, and Quantitative Research."
+    highlights = ["Gen AI", "Data Intelligence", "Quantitative Researcher"]
+
+  [[params.experience]]
+    city = "Remote"
+    country = "Firstbench"
+    flag = "🏢"
+    period = "Oct 2024 - Feb 2025"
+    description = "ML Engineer & Founding Team Member. Built AI learning platform serving 10K+ users."
+    highlights = ["MLOps pipelines", "NLP transformers", "Recommendation Systems"]
+
+  [[params.experience]]
+    city = "Remote"
+    country = "Fox Trading"
+    flag = "📈"
+    period = "Oct 2023 - Nov 2023"
+    description = "Machine Learning Intern. Developed quantitative trading algorithms and strategies."
+    highlights = ["Algo Trading", "Time-Series", "Ensemble Learning"]
+
+  [[params.experience]]
+    city = "Gwalior"
+    country = "IIITM"
+    flag = "🎓"
+    period = "Present"
+    description = "B.Tech (IT) + MBA. Specializing in Deep Learning and Computer Vision."
+    highlights = ["Research", "Hackathons", "Campus Leader"]
+
+  # Contact Information
+  [[params.contact]]
+    icon = "📧"
+    name = "email"
+    value = "kushagraparashar900@gmail.com"
+  
+  [[params.contact]]
+    icon = "🐙"
+    name = "github"
+    value = "kushagra8881"
+  
+  [[params.contact]]
+    icon = "💼"
+    name = "linkedin"
+    value = "kushagra-parashar-8b6593255"
+
+  [[params.contact]]
+    icon = "📞"
+    name = "phone"
+    value = "9812019300"

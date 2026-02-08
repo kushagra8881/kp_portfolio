@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Kushagra Parashar | ML Engineer</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Kushagra Parashar | ML Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 08 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Augmentation for Breast Cancer Imaging using GANs</title>
+      <link>//localhost:1313/posts/breast-cancer-gan/</link>
+      <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/breast-cancer-gan/</guid>
+      <description>Status: Ongoing Research&#xA;📄 Abstract The limited availability of annotated medical imaging data remains a critical barrier in developing robust deep learning models, particularly in breast Ultrasound (US). This study presents a novel conditional Generative Adversarial Network (GAN) framework tailored for synthesizing high-quality breast US images in data-constrained environments.&#xA;🔬 Methodology Our method is evaluated on 100 US images (one of the smallest publicly available breast US datasets) from the Open Access Series of Breast US Dataset (OASBUD), simulating real-world clinical scarcity.</description>
+    </item>
+    <item>
+      <title>Interpretable Deep Learning for GI Endoscopic Images</title>
+      <link>//localhost:1313/posts/gi-endoscopy/</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/gi-endoscopy/</guid>
+      <description>📄 Abstract Gastrointestinal (GI) endoscopy serves as a vital tool for assessing the GI tract and diagnosing related disorders. Recent progress in deep learning has shown significant improvements in identifying anomalies using sophisticated models and data augmentation strategies.&#xA;This study introduces an enhanced approach to improve classification accuracy using 8,000 labeled endoscopic images from the Kvasir dataset, categorized into eight distinct classes. Leveraging EfficientNetB3 as the backbone, our proposed architecture eliminates the reliance on data augmentation while maintaining moderate model complexity.</description>
+    </item>
+  </channel>
+</rss>

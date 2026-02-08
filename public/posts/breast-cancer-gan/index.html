@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+
+
+<title>Data Augmentation for Breast Cancer Imaging using GANs | Kushagra Parashar | ML Engineer</title>
+<meta name="description" content="Generative Adversarial Networks for small breast cancer imaging datasets (Ongoing).">
+
+
+<meta property="og:title" content="Data Augmentation for Breast Cancer Imaging using GANs | Kushagra Parashar | ML Engineer">
+<meta property="og:description" content="Generative Adversarial Networks for small breast cancer imaging datasets (Ongoing).">
+<meta property="og:type" content="article">
+<meta property="og:url" content="//localhost:1313/posts/breast-cancer-gan/">
+<meta property="og:site_name" content="Kushagra Parashar | ML Engineer">
+
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Data Augmentation for Breast Cancer Imaging using GANs | Kushagra Parashar | ML Engineer">
+<meta name="twitter:description" content="Generative Adversarial Networks for small breast cancer imaging datasets (Ongoing).">
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "name": "Data Augmentation for Breast Cancer Imaging using GANs | Kushagra Parashar | ML Engineer",
+  "url": "\/\/localhost:1313\/posts\/breast-cancer-gan\/",
+  
+  "headline": "Data Augmentation for Breast Cancer Imaging using GANs",
+  "datePublished": "2026-02-08T00:00:00Z",
+  "author": {
+    "@type": "Person",
+    "name": "Kushagra Parashar"
+  }
+  
+}
+</script>
+    
+
+<link rel="stylesheet" href="/scss/main.min.96cedc30ed4db9a8b93a48673c7ee43427744b14562505cf98a8d848765caf98.css" integrity="sha256-ls7cMO1Nuai5OkhnPH7kNCd0SxRWJQXPmKjYSHZcr5g=">
+
+
+
+<script src="/js/main.min.361f74b12928f77ba7eefa11a25ed5538127d3a249ede70ce9954868df95f526.js" integrity="sha256-Nh90sSko93un7voRol7VU4En06JJ7ecM6ZVIaN&#43;V9SY=" defer></script>
+    
+</head>
+<body>
+    <div class="particles" id="particles"></div>
+    <nav role="navigation" aria-label="Main navigation">
+    <div class="container">
+        <div class="nav-container">
+            <a href="//localhost:1313/" class="logo" aria-label="Kushagra Parashar | ML Engineer - Home">KP</a>
+            <ul class="nav-links" id="nav-menu">
+                <li><a href="//localhost:1313/" aria-current="false">Home</a></li>
+                <li><a href="//localhost:1313/social/" aria-current="false">Social Media</a></li>
+                <li><a href="//localhost:1313/posts/" aria-current="false">Research</a></li>
+                <li><a href="//localhost:1313/portfolio/" aria-current="false">Projects</a></li>
+                <li><a href="//localhost:1313/about/" aria-current="false">About</a></li>
+                <li><a href="//localhost:1313/experience/" aria-current="false">Experience</a></li>
+            </ul>
+            <div class="lang-switcher" role="group" aria-label="Language selection">
+                
+                <a href="//localhost:1313/en/"
+                    class="lang-link active"
+                    aria-label="Switch to " aria-current="true"
+                    >EN</a>
+                
+            </div>
+            <button class="mobile-menu-btn" aria-expanded="false" aria-controls="nav-menu"
+                aria-label="Toggle navigation menu">☰</button>
+        </div>
+    </div>
+</nav>
+    <main id="main" role="main">
+        
+<div class="post-container">
+    <article class="post-content">
+        <div class="post-terminal-header">
+            <div class="terminal-buttons">
+                <span class="btn-close"></span>
+                <span class="btn-minimize"></span>
+                <span class="btn-maximize"></span>
+            </div>
+        </div>
+        <div class="post-terminal-body">
+            <div class="prompt-line">
+                <span class="prompt">$</span>
+                <span class="command">cat "Data Augmentation for Breast Cancer Imaging using GANs.md"</span>
+            </div>
+            <div class="post-meta">
+                <time datetime="2026-02-08">2026-02-08</time>
+                
+            </div>
+            <div class="content">
+                <blockquote>
+<p><strong>Status</strong>: Ongoing Research</p>
+</blockquote>
+<h2 id="-abstract">📄 Abstract</h2>
+<p>The limited availability of annotated medical imaging data remains a critical barrier in developing robust deep learning models, particularly in breast Ultrasound (US). This study presents a novel conditional <strong>Generative Adversarial Network (GAN)</strong> framework tailored for synthesizing high-quality breast US images in data-constrained environments.</p>
+<h3 id="-methodology">🔬 Methodology</h3>
+<p>Our method is evaluated on <strong>100 US images</strong> (one of the smallest publicly available breast US datasets) from the Open Access Series of Breast US Dataset (OASBUD), simulating real-world clinical scarcity. By generating standardized B-mode images directly from raw radio-frequency (RF) data, our framework minimizes inter-vendor variability and produces diagnostically coherent images.</p>
+<p><strong>Architecture</strong>:</p>
+<ul>
+<li>Progressive Growing GAN + StyleGAN</li>
+<li>Spectral Normalization</li>
+<li>Residual Connections</li>
+<li>Pearson correlation-based loss function</li>
+</ul>
+<h3 id="-preliminary-results">📊 Preliminary Results</h3>
+<ul>
+<li><strong>Classification Accuracy</strong>: 82%</li>
+<li><strong>F1-Score</strong>: 0.83 (Benign &amp; Malignant)</li>
+<li><strong>Segmentation Dice Score</strong>: 0.74</li>
+</ul>
+<h3 id="-download-paper">📥 Download Paper</h3>
+<p>The full paper is available for download below:</p>
+<p><a href="/papers/breast-cancer-gan.pdf">📄 <strong>Download Full Paper (PDF)</strong></a></p>
+<p><em>(Note: Please ensure the file <code>breast-cancer-gan.pdf</code> is uploaded to the static/papers/ directory)</em></p>
+
+            </div>
+        </div>
+    </article>
+</div>
+
+    </main>
+    <footer style="background: rgba(0, 0, 0, 0.3); padding: 2rem 0; margin-top: 4rem; text-align: center; border-top: 1px solid rgba(255, 255, 255, 0.1);">
+    <div class="container">
+        <p style="color: #888; margin: 0;">
+            Copyright © 2026 • Powered by <a href="https://github.com/m03315/nomad-tech" target="_blank" style="color: #00d4ff; text-decoration: none;">nomad-tech</a>(<a href="https://gohugo.io" target="_blank" style="color: #00d4ff; text-decoration: none;">Hugo</a>) • 
+            Made by <a href="https://github.com/m03315" target="_blank" style="color: #9d50bb; text-decoration: none;">Kushagra Parashar</a>
+        </p>
+    </div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CLI on Kushagra Parashar | ML Engineer</title>
+    <link>//localhost:1313/tags/cli/</link>
+    <description>Recent content in CLI on Kushagra Parashar | ML Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/cli/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PyOS — Command-Line Operating System</title>
+      <link>//localhost:1313/portfolio/pyos/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/portfolio/pyos/</guid>
+      <description>Overview PyOS is a fully-featured command-line operating system simulator built in Python. It provides a realistic shell experience with user authentication, colorful interface, and an extensible command system.&#xA;🔧 Tech Stack Python - Core language Argparse - Argument parsing Custom Authentication - Secure user management ✨ Key Features Secure Authentication User registration and login system Password hashing for security Session management Rich Shell Experience Color-coded interface for better readability Command history and navigation Tab completion support Extensible Architecture Modular command system - easily add new commands Plugin architecture for extensions Minimal dependencies for portability 🖥️ Available Commands $ help # Show available commands $ ls # List directory contents $ cd # Change directory $ cat # Display file contents $ mkdir # Create directory $ touch # Create file $ rm # Remove file/directory $ clear # Clear screen $ exit # Exit PyOS 🎨 Features Demo ╔══════════════════════════════════════╗ ║ Welcome to PyOS ║ ║ A Python-based CLI OS ║ ╚══════════════════════════════════════╝ [kushagra@pyos ~]$ ls Documents/ Downloads/ Projects/ [kushagra@pyos ~]$ cd Projects [kushagra@pyos ~/Projects]$ _ 🔗 Links GitHub Repository </description>
+    </item>
+  </channel>
+</rss>

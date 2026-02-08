@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on Kushagra Parashar | ML Engineer</title>
+    <link>//localhost:1313/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Kushagra Parashar | ML Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ML Engineer &amp; Founding Team Member @ Firstbench</title>
+      <link>//localhost:1313/experience/firstbench/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/experience/firstbench/</guid>
+      <description>Role Overview As a Machine Learning Engineer &amp;amp; Founding Team Member at Firstbench, I played a pivotal role in building an AI-powered educational platform from the ground up.&#xA;📅 Duration October 2024 – February 2025 | Remote&#xA;🎯 Key Responsibilities AI-Driven Learning Platform Led the design and deployment of a personalized learning platform Served 10,000+ UPSC aspirants with customized content Improved content recommendation accuracy by 80% Technical Implementation Built transformer-based NLP models for content understanding Implemented collaborative filtering for personalized recommendations Designed semantic tagging systems for content organization MLOps Excellence Engineered scalable end-to-end MLOps pipelines Automated question generation using AI Optimized inference latency for production readiness Implemented adaptive learning algorithms 🔧 Tech Stack NLP: Transformers, HuggingFace, BERT ML: PyTorch, TensorFlow, Scikit-learn MLOps: Docker, AWS, FastAPI Databases: PostgreSQL, Redis 📊 Impact Metric Result Users Served 10,000+ Recommendation Accuracy +80% Platform Availability 99.</description>
+    </item>
+    <item>
+      <title>Machine Learning Intern @ Fox Trading</title>
+      <link>//localhost:1313/experience/fox-trading/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/experience/fox-trading/</guid>
+      <description>Role Overview As a Machine Learning Intern at Fox Trading, I worked on developing AI-powered trading strategies using advanced statistical methods.&#xA;📅 Duration October 2023 – November 2023 | Remote&#xA;🎯 Key Responsibilities Quantitative Trading Algorithms Developed and backtested trading algorithms Implemented ensemble learning techniques Applied statistical arbitrage strategies Achieved 40% improvement in predictive performance Data Science Performed time-series forecasting on financial data Conducted extensive feature engineering Implemented anomaly detection systems Worked with large-scale financial datasets Model Optimization Enhanced model interpretability for trading decisions Improved execution efficiency of trading signals Built robust backtesting frameworks 🔧 Tech Stack ML: Scikit-learn, XGBoost, LightGBM Time-Series: Prophet, ARIMA, LSTM Data: Pandas, NumPy, SQL Visualization: Matplotlib, Plotly 📊 Impact Metric Result Predictive Performance +40% Backtesting Coverage 5+ years Models Developed 10+ </description>
+    </item>
+  </channel>
+</rss>

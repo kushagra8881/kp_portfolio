@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Published on Kushagra Parashar | ML Engineer</title>
+    <link>//localhost:1313/tags/published/</link>
+    <description>Recent content in Published on Kushagra Parashar | ML Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/published/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interpretable Deep Learning for GI Endoscopic Image Classification</title>
+      <link>//localhost:1313/research/gi-endoscopic-classification/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/research/gi-endoscopic-classification/</guid>
+      <description>📚 Publication Biomedical Physics &amp;amp; Engineering Express (IOP Publishing)&#xA;Overview This research focuses on making deep learning models interpretable for medical diagnosis, specifically for gastrointestinal (GI) endoscopic image classification.&#xA;🔬 Research Contributions Interpretable AI for Healthcare Applied EfficientNet architecture for multi-class GI diagnosis Integrated Grad-CAM for visual explanations of model decisions Implemented LIME (Local Interpretable Model-agnostic Explanations) Achieved transparent multi-class diagnosis Key Innovations Combined state-of-the-art accuracy with interpretability Enabled clinicians to understand model reasoning Validated on real-world endoscopic image datasets 🎯 Impact This work bridges the gap between high-performing deep learning models and clinical adoption by providing transparent, interpretable diagnoses that healthcare professionals can trust and verify.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Kushagra Parashar | ML Engineer</title>
+    <link>//localhost:1313/portfolio/</link>
+    <description>Recent content in Projects on Kushagra Parashar | ML Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SmolWhisper — Lightweight Multilingual ASR</title>
+      <link>//localhost:1313/portfolio/smolwhisper/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/portfolio/smolwhisper/</guid>
+      <description>Overview SmolWhisper is a lightweight yet powerful Automatic Speech Recognition (ASR) model built on top of the Whisper architecture. Designed for efficiency without sacrificing accuracy, it&amp;rsquo;s perfect for resource-constrained environments.&#xA;🔧 Tech Stack PyTorch - Deep learning framework HuggingFace Transformers - Model architecture and tokenization FlashAttention - Optimized attention mechanism DDP (Distributed Data Parallel) - Multi-GPU training WGAN - Data augmentation ✨ Key Features High-Efficiency Training Trained on 250+ hours of GigaSpeech dataset Multi-GPU Distributed Data Parallel (DDP) for scalable training 35% faster convergence compared to baseline Advanced Optimization FlashAttention integration for memory-efficient attention bfloat16 precision training for reduced compute overhead WGAN-based data augmentation for enhanced training stability Production Ready Scalable pipelines for multilingual speech recognition Noise-robust transcription capabilities Lightweight model size (30M parameters) suitable for edge deployment 📊 Results Metric Performance Model Size 30M parameters Training Data 250+ hrs GigaSpeech Convergence Speed 35% faster Precision bfloat16 🔗 Links GitHub Repository </description>
+    </item>
+    <item>
+      <title>Loan Prediction MLOps Pipeline</title>
+      <link>//localhost:1313/portfolio/loan-prediction-mlops/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/portfolio/loan-prediction-mlops/</guid>
+      <description>Overview A production-grade MLOps pipeline that automates the entire machine learning lifecycle - from model training to deployment. Built with industry best practices for reliability, reproducibility, and scalability.&#xA;🔧 Tech Stack FastAPI - High-performance API framework Docker - Containerization AWS EC2 - Cloud deployment Jenkins - CI/CD automation DVC - Data version control ✨ Key Features Automated Pipeline Automated model retraining triggered by data drift or schedule Validation gates ensuring model quality before deployment Jenkins-based CI/CD for seamless integration Production Deployment Containerized microservice using Docker AWS EC2 orchestration for scalable deployment 99.</description>
+    </item>
+    <item>
+      <title>PyOS — Command-Line Operating System</title>
+      <link>//localhost:1313/portfolio/pyos/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/portfolio/pyos/</guid>
+      <description>Overview PyOS is a fully-featured command-line operating system simulator built in Python. It provides a realistic shell experience with user authentication, colorful interface, and an extensible command system.&#xA;🔧 Tech Stack Python - Core language Argparse - Argument parsing Custom Authentication - Secure user management ✨ Key Features Secure Authentication User registration and login system Password hashing for security Session management Rich Shell Experience Color-coded interface for better readability Command history and navigation Tab completion support Extensible Architecture Modular command system - easily add new commands Plugin architecture for extensions Minimal dependencies for portability 🖥️ Available Commands $ help # Show available commands $ ls # List directory contents $ cd # Change directory $ cat # Display file contents $ mkdir # Create directory $ touch # Create file $ rm # Remove file/directory $ clear # Clear screen $ exit # Exit PyOS 🎨 Features Demo ╔══════════════════════════════════════╗ ║ Welcome to PyOS ║ ║ A Python-based CLI OS ║ ╚══════════════════════════════════════╝ [kushagra@pyos ~]$ ls Documents/ Downloads/ Projects/ [kushagra@pyos ~]$ cd Projects [kushagra@pyos ~/Projects]$ _ 🔗 Links GitHub Repository </description>
+    </item>
+    <item>
+      <title>Skin Sprite — AI Dermatology Analysis</title>
+      <link>//localhost:1313/portfolio/skin-sprite/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/portfolio/skin-sprite/</guid>
+      <description>🏆 Award-Winning Project Winner at HackBytes 2.0, IIIT Jabalpur - An AI-powered dermatology analysis system that surpassed existing solutions in diagnostic efficiency.&#xA;Overview Skin Sprite is an intelligent dermatology assistant that uses computer vision and deep learning to analyze skin conditions. Built during a 24-hour hackathon, it demonstrates the power of AI in healthcare diagnostics.&#xA;🔧 Tech Stack Deep Learning - CNN-based image classification Computer Vision - Image preprocessing and augmentation Python - Backend development Streamlit/FastAPI - Web interface ✨ Key Features Accurate Diagnosis Multi-class skin lesion classification High diagnostic accuracy rivaling existing solutions Confidence scoring for predictions User-Friendly Interface Easy image upload for analysis Instant results with detailed explanations Medical disclaimer and guidance Production Ready Optimized inference for real-time analysis Scalable architecture for deployment Privacy-focused - no data retention 🔗 Links Devfolio Project GitHub Repository </description>
+    </item>
+    <item>
+      <title>DermaPixie — Skin Lesion Classifier</title>
+      <link>//localhost:1313/portfolio/dermapixie/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/portfolio/dermapixie/</guid>
+      <description>🏆 Award-Winning Project Winner at TechMinds Hackathon, IIT Janakpuri - A computer vision model achieving 98.5% diagnostic accuracy in skin lesion classification.&#xA;Overview DermaPixie is a state-of-the-art skin lesion classification system that leverages advanced computer vision techniques to achieve near-expert level diagnostic accuracy.&#xA;🔧 Tech Stack PyTorch/TensorFlow - Deep learning framework EfficientNet - Backbone architecture OpenCV - Image processing Grad-CAM - Model interpretability ✨ Key Features State-of-the-Art Accuracy 98.5% diagnostic accuracy on test dataset Multi-class classification covering various skin conditions Robust to image quality variations Interpretable AI Grad-CAM visualizations showing model attention Confidence scores for each prediction Explainable results for medical professionals Technical Excellence Transfer learning from ImageNet pretrained models Data augmentation for improved generalization Optimized for mobile deployment 📊 Results Metric Performance Accuracy 98.</description>
+    </item>
+  </channel>
+</rss>

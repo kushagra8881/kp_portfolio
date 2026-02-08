@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Kushagra Parashar | ML Engineer</title>
+    <link>//localhost:1313/research/</link>
+    <description>Recent content in Research on Kushagra Parashar | ML Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interpretable Deep Learning for GI Endoscopic Image Classification</title>
+      <link>//localhost:1313/research/gi-endoscopic-classification/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/research/gi-endoscopic-classification/</guid>
+      <description>📚 Publication Biomedical Physics &amp;amp; Engineering Express (IOP Publishing)&#xA;Overview This research focuses on making deep learning models interpretable for medical diagnosis, specifically for gastrointestinal (GI) endoscopic image classification.&#xA;🔬 Research Contributions Interpretable AI for Healthcare Applied EfficientNet architecture for multi-class GI diagnosis Integrated Grad-CAM for visual explanations of model decisions Implemented LIME (Local Interpretable Model-agnostic Explanations) Achieved transparent multi-class diagnosis Key Innovations Combined state-of-the-art accuracy with interpretability Enabled clinicians to understand model reasoning Validated on real-world endoscopic image datasets 🎯 Impact This work bridges the gap between high-performing deep learning models and clinical adoption by providing transparent, interpretable diagnoses that healthcare professionals can trust and verify.</description>
+    </item>
+    <item>
+      <title>Data Augmentation for Breast Cancer Imaging using WGANs</title>
+      <link>//localhost:1313/research/wgan-breast-cancer/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/research/wgan-breast-cancer/</guid>
+      <description>🔬 Ongoing Research Overview This research explores the use of Wasserstein GANs (WGANs) to generate synthetic medical images for breast cancer detection, addressing the critical challenge of limited medical imaging datasets.&#xA;🎯 Research Goals Data Augmentation Apply Wasserstein GANs with label smoothing Generate high-quality synthetic medical images Triple limited datasets for improved model training Improved Detection Enhance robustness of cancer detection models Address class imbalance in medical datasets Improve generalization across diverse patient populations 🔧 Methodology WGAN Architecture Generator network for realistic image synthesis Critic network for quality assessment Wasserstein distance for stable training Label Smoothing Regularization technique for improved generation Better gradient flow during training More realistic synthetic samples 📊 Expected Outcomes Metric Target Dataset Size 3x increase Model Robustness Significant improvement Generalization Improved cross-domain performance Status 🔄 Ongoing Research</description>
+    </item>
+  </channel>
+</rss>
